@@ -1,0 +1,11 @@
+# Ignore everything except Solidity contracts and docs
+node_modules/
+.env
+.DS_Store
+*.log
+*.tsbuildinfo
+dist/
+build/
+artifacts/
+cache/
+.vscode/
