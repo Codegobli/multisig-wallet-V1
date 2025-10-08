@@ -158,4 +158,4 @@ For technical support or security concerns, please open an issue in the reposito
 
 ---
 
-**Built with 🏗️ for secure decentralized governance**
+**Built with love for secure decentralized governance**
